@@ -1,0 +1,32 @@
+body {background-image: url("stay_hotel.png");
+	background-repeat: no-repeat;
+	height:800px;
+	/*width: 200px;*/
+	background-size: cover;
+	background-position: center;
+	background-color: #bbbbbb;
+    color: black;
+    }
+
+.main1{
+    font-size: 20px;
+    align="center";
+    font-weight: bold;
+    }
+
+fieldset {background-color: transparent; }
+legend{font-size: 50px;}
+
+
+
+
+/*body {background-image: url("scenery.png");
+	background-repeat: no-repeat;
+	height:5px;
+	background-size: cover;
+	background-position: center;
+	background-color: #bbbbbb;}
+
+fieldset {background-color: transparent; }
+legend{font-size: 50px;}
+*/

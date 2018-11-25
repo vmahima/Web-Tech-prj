@@ -1,0 +1,80 @@
+ @font-face
+      {
+          font-family:cassandra;
+          src:url('cassandra.ttf');
+      }
+@font-face
+      {
+          font-family:disney;
+          src:url('disney.ttf');
+      }
+.head{
+    padding-top: 0px;
+    font-family: disney;
+    color: black;
+    
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color:linen;
+    
+}
+
+.headings{
+    padding-top: 0px;
+    font-family: disney;
+    font-size: 43px;
+    color: red;
+}
+.big{
+    font-size: 50px;
+    color: red;
+    
+}
+.container
+{
+    position: relative;
+    text-align: right;
+    font-family: cassandra;
+    font-size: 58px;
+    color:indigo;
+}
+
+
+
+.top-left 
+{
+    position: absolute;
+    top: 8px;
+    left: 500px;
+    text-align: right;
+}
+.posimg
+{
+    
+}
+.pc{
+    font-family: serif;
+    color: crimson;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.btn{
+    
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 100px;
+    margin-left: 600px;
+    padding-right:200px;
+/* border: 1px solid rgb(128,128,128);*/
+    
+   
+
+}
+.catsl{
+    height: 220px;
+    padding-left: 30px;
+}

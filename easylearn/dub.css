@@ -1,0 +1,103 @@
+ @font-face
+      {
+          font-family:cassandra;
+          src:url('cassandra.ttf');
+      }
+@font-face
+      {
+          font-family:lemon;
+          src:url('lemon.ttf');
+      }
+@font-face
+      {
+          font-family:rom;
+          src:url('rom.ttf');
+      }
+@font-face
+      {
+          font-family:sweet;
+          src:url('sweet.ttf');
+      }
+.head{
+    padding-top: 20px;
+    font-family: lemon;
+    font-size: 100px;
+    color: brown;
+    text-align: center;
+    
+}
+body, html {
+    height: 100%;
+    margin: 0;
+   /* background-color:lightblue;*/
+    background-image: url(rite.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.headings{
+    padding-top: 0px;
+    font-family: disney;
+    font-size: 43px;
+    color: red;
+}
+.big{
+    font-size: 50px;
+    color: red;
+    
+}
+.container
+{
+    position: relative;
+    text-align: right;
+    font-family: cassandra;
+    font-size: 48px;
+    color:navy;
+}
+
+
+.centered {
+    position: absolute;
+    top: 78%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.posimg{
+    padding-left: 10px;
+}
+.pc{
+    font-family: serif;
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 20px;
+}
+.btn{
+    
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 120px;
+    margin-left: 600px;
+    padding-right:600px;
+/* border: 1px solid rgb(128,128,128);*/
+    
+   
+
+}
+.burj{
+    font-family: sweet;
+    font-size: 40px;
+    color:crimson;
+    padding-left: 20px;
+    
+}
+.fer{
+    font-family: sweet;
+    font-size: 40px;
+    color:crimson;
+    padding-left: 20px;
+    
+}

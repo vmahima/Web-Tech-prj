@@ -1,0 +1,245 @@
+*{
+    padding-left: 10px;
+    padding-top: 0px;
+}
+
+body{
+    font-family: cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: scroll;
+    
+    padding-bottom: 50px;    
+    background-image: url(wallpaper.jpg);
+    height: 1100px;
+    filter: alpha(opacity=60);
+    background-image: rgba(0, 0, 0, 0.2);*/
+}
+
+/*
+@font-face {
+      font-family: "Comic Sans MS";
+      src: url("./fonts");
+    }
+*/
+
+.logo{
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+
+.title{
+    font-family: cursive;
+    font-size: 42px;
+    
+    margin-top: 35px;
+    padding-left: 530px;
+}
+
+/* css of Welcome to the World of Animals */
+.cachytag1{
+    font-size: 20px;
+    font-style: italic;
+
+    position: absolute;
+    top:100px;
+}
+
+/*css of Have a look at how amazing this journey can be! */
+.cachytag2{
+    font-size: 20px;
+    font-style: italic;
+    
+    position: absolute;
+    top:130px;
+}
+
+/* image one */
+.one{
+    position:absolute;
+    top: 240px;
+    left: 50px;
+    
+    border-radius: 8px;
+}
+
+.oneone{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top:455px;
+    left: 50px;
+}
+
+/* image two */
+.two{
+    position:absolute;
+    top: 575px;
+    left: 50px;
+    
+    border-radius: 8px;
+}
+
+.twotwo{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top: 810px;
+    left: 50px;
+}
+
+/* image three */
+.three{
+    position:absolute;
+    top: 920px;
+    left: 50px;
+    
+    border-radius: 8px;
+}
+
+.threethree{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top: 1135px;
+    left: 50px;
+}
+
+/* image four */
+.four{
+    position:absolute;
+    top: 240px;
+    left: 470px;
+    
+    border-radius: 8px;
+}
+
+.fourfour{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top: 455px;
+    left: 470px;
+}
+
+
+/* image seven */
+.seven{
+    position:absolute;
+    top: 240px;
+    left: 900px;
+    
+    border-radius: 8px;
+}
+
+.sevenseven{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top:455px;
+    left: 900px;
+}
+
+/* image five */
+.five{
+    position:absolute;
+    top: 575px;
+    left: 470px;
+    
+    border-radius: 8px;
+}
+
+.fivefive{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top: 810px;
+    left: 470px;
+}
+
+/* image eight */
+.eight{
+    position:absolute;
+    top: 575px;
+    left: 900px;
+    
+    border-radius: 8px;
+}
+
+.eighteight{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top: 810px;;
+    left: 900px;
+}
+
+/* image six */
+.six{
+    position:absolute;
+    top: 920px;
+    left: 470px;
+    
+    border-radius: 8px;
+}
+
+.sixsix{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top: 1135px;
+    left: 470px;
+}
+
+/* image nine */
+.nine{
+    position:absolute;
+    top: 920px;
+    left: 900px;
+    
+    border-radius: 8px;
+}
+
+.ninenine{
+    font-size: 17px;
+    font-style: italic;
+    
+    position: absolute;
+    top:1135px;
+    left: 900px;
+}
+
+.link{
+    position: absolute;
+    top:1210px;
+    left: 50px;
+}
+
+
+.space{
+    position: absolute;
+    top:1500px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,125 @@
+@font-face
+      {
+          font-family:rom;
+          src:url('rom.ttf');
+      }
+
+@font-face
+      {
+          font-family:cassandra;
+          src:url('cassandra.ttf');
+      }
+@font-face
+      {
+          font-family:sweet;
+          src:url('sweet.ttf');
+      }
+
+@font-face
+      {
+          font-family:lemon;
+          src:url('lemon.ttf');
+      }
+@font-face
+      {
+          font-family:hanged;
+          src:url('HangedLetters.ttf');
+      }
+
+body{
+    
+    height: 100%; 
+    margin: 0;
+    background-color:linen;
+     background-image: url(blue.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*.bg {
+    
+     background-color: blue;
+    background-image: url(blue.jpg);
+   
+  
+    height: 100%; 
+
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+
+.cen{
+   font-family: hanged;
+    font-size: 100px;
+    color: midnightblue;
+    align-content: center;
+    text-align: center;
+    padding-top: 0px;
+}
+.pp{
+    font-family: serif;
+    font-weight: bold;
+    color:goldenrod;
+    font-size: 20px;
+}
+.chk{
+    font-family: cassandra;
+    font-size: 17px;
+    padding-left: 25 px;
+}
+.place{
+    color: purple;
+    font-size: 45px;
+    font-family: cursive;
+    padding-left: 20px;
+}
+.treck{
+    font-family: sweet;
+    color: mediumvioletred;
+    font-size: 40px;
+   /* float: left;*/
+   padding-left: 10px;
+}
+.crystal{
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-family: cursive;
+    color: mediumvioletred;
+    font-size: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    
+}
+.res{
+    font-family: cursive;
+    color: purple;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.rite
+{
+    float: right;
+    padding-right: 680px;
+    
+}
+.mtn{font-family: cursive;
+    /*color: aliceblue;*/
+    color: darkmagenta;
+    font-size: 25px;
+    
+}
+.links{
+    padding-left: 40px;
+    padding-top: 20px;
+    
+}
+.book{
+    padding-top: 40px;
+    padding-left: 40px;
+}

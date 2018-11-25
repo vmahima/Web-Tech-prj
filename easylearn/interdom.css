@@ -1,0 +1,10 @@
+body {background-image: url("interdom.png");
+	background-repeat: no-repeat;
+	height:1000px;
+	/*width: 200px;*/
+	background-size: cover;
+	background-position: center;
+	background-color: #bbbbbb;}
+
+fieldset {background-color: transparent; }
+

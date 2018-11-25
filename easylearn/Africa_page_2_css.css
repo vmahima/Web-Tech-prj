@@ -1,0 +1,181 @@
+*{
+    padding-left: 10px;
+    padding-top: 0px;
+   margin-bottom: 10px;
+}
+
+body{
+    font-family: cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: scroll;
+    
+    padding-bottom: 50px;
+   
+    background-image: url(wallpaper.jpg);
+    filter: alpha(opacity=60);
+    background-image: linear-gradient(rgba(255,255,255,.2));
+    background-repeat: no-repeat;
+    background-size: 1270px 2370px;
+   
+    background-blend-mode: lighten;
+}
+
+/*
+@font-face {
+      font-family: "Comic Sans MS";
+      src: url("./fonts");
+    }
+*/
+
+.logo{
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+
+.title{
+    font-family: cursive;
+    font-size: 42px;
+    
+    
+    padding-left: 530px;
+    position: absolute;
+    top: 0.1px;
+}
+
+/* css of Welcome to the World of Animals */
+.cachytag1{
+    font-size: 19px;
+    font-style: italic;
+
+    position: absolute;
+    top:100px;
+}
+
+/*css of Have a look at how amazing this journey can be! */
+.cachytag2{
+    font-size: 19px;
+    font-style: italic;
+    
+    position: absolute;
+    top:130px;
+    margin-left: 10px;
+}
+
+/*one*/
+.imageone{
+    border-radius: 80%;
+    position: absolute;
+    top: 280px;
+    left:50px;
+}
+
+.titleone{
+    font-size: 19px;
+    position: absolute;
+    top: 220px;
+
+}
+
+.divone{
+    border: 1px solid black;
+    width: 700px;
+    height:300px;
+    position: absolute;
+    left: 500px;
+    top: 330px;
+    margin-right: 10px;
+    
+    font-size: 17px;    
+}
+
+/*two*/
+.imagetwo{
+    border-radius: 80%;
+    position: absolute;
+    top: 850px;
+    left:50px;
+}
+
+.titletwo{
+    font-size: 19px;
+    position: absolute;
+    top: 750px;
+}
+
+.divtwo{
+    border: 1px solid black;
+    width: 700px;
+    height:300px;
+    position: absolute;
+    left: 500px;
+    top: 850px;
+    margin-right: 10px;
+    
+    font-size: 17px;    
+}
+
+/*three*/
+.imagethree{
+    border-radius: 80%;
+    position: absolute;
+    top: 1390px;
+    left:50px;
+}
+
+.titlethree{
+    font-size: 19px;
+    position: absolute;
+    top: 1283px;
+}
+
+.divthree{
+    border: 1px solid black;
+    width: 700px;
+    height:300px;
+    position: absolute;
+    left: 500px;
+    top: 1400px;
+    margin-right: 10px;
+    
+    font-size: 17px;    
+}
+
+/*four*/
+.imagefour{
+    border-radius: 80%;
+    position: absolute;
+    top: 1920px;
+    left:50px;
+}
+
+.titlefour{
+    font-size: 19px;
+    position: absolute;
+    top: 1830px;
+}
+
+.divfour{
+    border: 1px solid black;
+    width: 700px;
+    height:300px;
+    position: absolute;
+    left: 500px;
+    top: 1930px;
+    margin-right: 10px;
+    
+    font-size: 17px;    
+}
+
+/*link*/
+.link{
+    position: absolute;
+    top: 2000px;
+    margin-top: 380px;
+    border: 1px solid brown;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}

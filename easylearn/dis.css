@@ -1,0 +1,97 @@
+@font-face
+      {
+          font-family:rom;
+          src:url('rom.ttf');
+      }
+
+@font-face
+      {
+          font-family:cassandra;
+          src:url('cassandra.ttf');
+      }
+
+@font-face
+      {
+          font-family:lemon;
+          src:url('lemon.ttf');
+      }
+body{
+    
+    height: 100%; 
+    margin: 0;
+    background-color:linen;
+}
+
+.bg {
+    /* The image used */
+     background-color: blue;
+    background-image: url("res.jpg");
+   
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cen{
+   font-family: rom;
+    font-size: 50px;
+    color: red;
+    align-content: center;
+    text-align: center;
+    padding-top: 20px;
+}
+.pp{
+    font-family: serif;
+    font-weight: bold;
+    color: crimson;
+    font-size: 20px;
+}
+.chk{
+    font-family: cassandra;
+    font-size: 20px;
+    padding-left: 25 px;
+}
+.meal{
+    color: red;
+    font-size: 45px;
+    font-family: lemon;
+    padding-left: 20px;
+}
+.cafe{
+    font-family: fantasy;
+    color: mediumvioletred;
+    font-size: 20px;
+   /* float: left;*/
+   padding-left: 10px;
+}
+.crystal{
+    height: 100px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: fantasy;
+    color: mediumvioletred;
+    font-size: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    
+}
+.res{
+    font-family: cursive;
+    color: blueviolet;
+}
+.rite
+{
+    float: right;
+    padding-right: 680px;
+    
+}
+.book{
+    padding-top: 40px;
+    padding-left: 40px;
+}
